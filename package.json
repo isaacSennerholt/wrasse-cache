@@ -1,0 +1,21 @@
+{
+  "name": "wrasse-cache",
+  "version": "1.0.0",
+  "description": "A Redux cache",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "test-unit-all": "npm run test -- unit"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "is-plain-object": "^2.0.4",
+    "redux": "^4.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "jest": "20.0.4",
+    "prettier": "1.15.2"
+  }
+}
