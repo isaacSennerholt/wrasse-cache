@@ -1,8 +1,8 @@
 {
   "name": "wrasse-cache",
   "version": "1.0.0",
-  "description": "A Redux cache",
-  "main": "src/index.js",
+  "description": "A Redux cache.",
+  "main": "lib/wrasseCache.js",
   "scripts": {
     "test": "./node_modules/.bin/jest",
     "test-unit-all": "npm run test -- unit"
